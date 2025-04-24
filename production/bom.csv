@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,CP_Elec_4x5.3,1,C_Polarized_Small_US,
+D1,1206,1,LED,
+"H1, H2",MountingHole_2.2mm_M2_DIN965_Pad,2,MountingHole_Pad,
+"J1, J3",TerminalBlock_MetzConnect_Type011_RT05502HBWC_1x02_P5.00mm_Horizontal,2,Screw_Terminal_3.5mm_2,
+J2,PinHeader_2x02_P2.54mm_Vertical,1,Conn_02x02_Counter_Clockwise,
+J4,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02,
+"Q1, Q3",TO-263-2,2,IRF9540N,
+"Q2, Q4",TO-263-2,2,IRFZ44NSTRLPBF,
+R1,1206,1,R,
+U1,SOP-8_5.28x5.23mm_P1.27mm,1,ATtiny85V-10P,
+U3,SOT-89-3_Handsoldering,1,L78L05_SOT89,
